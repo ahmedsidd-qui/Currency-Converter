@@ -1,6 +1,6 @@
-## Currency Converter with API and UI
+## Currency Converter with API
 
-This project provides a Java application for currency conversion. It fetches live exchange rates from an API and allows users to convert between different currencies through a graphical user interface (UI).
+This project provides a Java application for currency conversion. It fetches live exchange rates from an API and allows users to convert between different currencies
 
 ### Features
 
